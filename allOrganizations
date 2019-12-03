@@ -1,0 +1,14 @@
+[
+    {
+        "name": "myManagedOrganizations",
+        "baseUrlType": "workday-common",
+        "url": "/workers/me/supervisoryOrganizationsManaged",
+        "authType": "sso"
+    },
+    {
+        "name": "myOrganizations",
+         "baseUrlType": "workday-common",
+        "url": "/workers/me/organizations",
+        "authType": "sso"
+    }
+]

@@ -7,9 +7,9 @@
         "authType": "sso"
     },
     {
-        "name": "myOrganizations",
+        "name": "loganManagedOrganizations",
          "baseUrlType": "workday-common",
-        "url": "https://api.workday.com/common/v1/workers/me/organizations",
+        "url": "https://api.workday.com/common/v1/workers/2a37f8012406102d1ad61154601e02a1/supervisoryOrganizationsManaged",
         "authType": "sso"
     }
 ]

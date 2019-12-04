@@ -3,13 +3,13 @@
     {
         "name": "myManagedOrganizations",
         "baseUrlType": "workday-common",
-        "url": "/workers/me/supervisoryOrganizationsManaged",
+        "url": "https://api.workday.com/common/v1/workers/me/supervisoryOrganizationsManaged",
         "authType": "sso"
     },
     {
         "name": "myOrganizations",
          "baseUrlType": "workday-common",
-        "url": "/workers/me/organizations",
+        "url": "https://api.workday.com/common/v1/workers/me/organizations",
         "authType": "sso"
     }
 ]

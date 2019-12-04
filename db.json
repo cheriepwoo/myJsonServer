@@ -1,12 +1,12 @@
 {
 "testEndpoints" : [
     {
-        "name": "myManagedOrganizations",
+        "name": "myOrganizations",
         "url": "https://api.workday.com/common/v1/workers/me/organizations",
         "authType": "sso"
     },
     {
-        "name": "loganManagedOrganizations",
+        "name": "loganOrganizations",
         "url": "https://api.workday.com/common/v1/workers/ad3b6e21b21b100301e6c888e90816da/organizations",
         "authType": "sso"
     }
